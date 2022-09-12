@@ -9,3 +9,5 @@
 # edit 5.2
 
 x <- rnorm(100)
+
+# endring til git
