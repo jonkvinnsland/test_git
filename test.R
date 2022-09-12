@@ -6,6 +6,6 @@
 
 # edit 4
 
-# edit 5.1
+# edit 5.2
 
 x <- rnorm(100)

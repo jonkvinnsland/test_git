@@ -1,0 +1,17 @@
+# empty file
+
+# edit 2
+
+# edit 3
+
+# edit 4
+
+<<<<<<< HEAD
+# edit 5.1
+
+x <- rnorm(100)
+=======
+# edit 5
+
+y <- rnorm(50)
+>>>>>>> new-branch
